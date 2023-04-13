@@ -1,0 +1,41 @@
+
+#boby{
+  background-color: black;
+    color: antiquewhite;
+}
+body{
+    background-color: black;
+    color: antiquewhite;
+    overflow-x: hidden;
+}
+
+
+#fej{
+    background-color: darkblue;
+            margin-top:0px;
+            margin-inline: -5px;
+            text-align: center;
+            font-size: 50px;
+            padding: 10px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+            color: aliceblue;
+            border: groove red 10px;
+}
+#udv{
+  text-align: center;
+  font-family:fantasy;
+  color: red;
+}
+#szöveg{
+  
+  font-size: 30px ;
+
+}
+#szöveg2{
+  
+  font-size: 30px ;
+
+}
+
+
