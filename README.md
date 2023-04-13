@@ -1,1 +1,1 @@
-# Erasmus-Levai-Adam-web
+Today, I continued my web. I canged some things and made some things. For example the menu or the text etc. I made some Links and in the menu you can use the matches button. The lay out now responsive. I think  tomorrow I will pick my Esport logo and can make some designe. 
