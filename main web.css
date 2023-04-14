@@ -1,0 +1,59 @@
+
+
+#boby{
+    color: antiquewhite;
+}
+body{
+    background-color: black;
+    color: antiquewhite;
+    overflow-x: hidden;
+}
+
+
+#fej{
+    background-image: url("cup.jfif");
+    background-repeat: no-repeat;
+            background-size: 1600px 300px;
+            margin-top:0px;
+            margin-inline: -5px;
+            text-align: center;
+            font-size: 50px;
+            padding: 10px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+            color: aliceblue;
+            border: groove red 10px;
+}
+#udv{
+  text-align: center;
+  font-family:fantasy;
+  color: red;
+}
+#szöveg{
+  
+  font-size: 30px ;
+
+}
+#szöveg2{
+  
+  font-size: 30px ;
+
+}
+a{
+  font-weight: 100;
+}
+footer{
+  height: 175px;
+  background-color: darkgray;
+  margin-top: 0px;
+  
+}
+#tabla{
+  text-align: justify;
+}
+#menu{
+  background-image:url("galaxy.jfif");
+background-repeat:repeat-x;
+}
+
+

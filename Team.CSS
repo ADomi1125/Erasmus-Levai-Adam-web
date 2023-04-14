@@ -1,0 +1,17 @@
+footer{
+    height: 175px;
+    background-color: darkgray;
+    margin-top: 200px;
+    width: 2000px;
+  }
+ #ADomi{
+ margin-inline: 45%;
+ border: 3px solid black;
+ }
+ #nev{
+    text-align: center;
+    color: red;
+ }
+ #tabla{
+    text-align: justify;
+  }
